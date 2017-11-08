@@ -1,0 +1,6 @@
+Changes not staged for commit文件已经修改了，但还没有add
+
+Changes to be committed文件已经修改了，并且也已经add了
+
+什么玩意儿
+
